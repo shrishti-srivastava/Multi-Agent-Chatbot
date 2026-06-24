@@ -1,0 +1,9 @@
+streamlit
+groq
+duckduckgo-search
+requests
+NLP
+spacy
+textblob
+pillow
+
